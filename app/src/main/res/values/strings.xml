@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">desafio4_firebase</string>
+    <string name="login">LOG IN</string>
+    <string name="create_account">Create account</string>
+    <string name="save">CREATE ACCOUNT</string>
+    <string name="search">Search Games</string>
+    <string name="name">Name</string>
+    <string name="created">Created at</string>
+    <string name="desc">Description</string>
+    <string name="save_game">SAVE GAME</string>
+</resources>
